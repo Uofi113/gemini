@@ -1,0 +1,10 @@
+.theos/
+obj/
+packages/
+*.deb
+.DS_Store
+
+.env
+.env.*
+MEMORY.md
+memory/

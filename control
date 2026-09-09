@@ -1,0 +1,9 @@
+Package: com.uofist.g6mini
+Name: G6mini
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Native Gemini AI client for iOS 6. Skeuomorphism at its best.
+Maintainer: uofist <@uofist>
+Author: uofist <@uofist>
+Section: Applications
